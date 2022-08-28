@@ -1,0 +1,28 @@
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: papayawhip;
+
+}
+
+legend {
+
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em royalblue;
+
+}
+
+button {
+
+    background-color: royalblue;
+    color: black;
+    border-radius: 10px;
+
+}
+
+fieldset {
+
+    border: solid 0.5px;
+    border-radius: 10px;
+    
+}

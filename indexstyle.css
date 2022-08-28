@@ -1,0 +1,21 @@
+body {
+
+    background-image: url(./Imagens/Imagem\ 1.png);
+
+}
+
+h1 {
+
+    font-size: 60px;
+    font-family: fantasy;
+    color: ghostwhite;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+}
+
+.number {
+
+    color: white;
+    
+}

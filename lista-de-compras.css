@@ -1,0 +1,27 @@
+h1 {
+
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em palevioletred;
+    
+}
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: papayawhip;
+
+}
+
+legend {
+
+    font-size: 20px;
+    text-shadow: 0.1em 0.1em 0.2em palevioletred;
+
+}
+
+fieldset {
+
+    border: solid 0.9px;
+    border-radius: 10px;
+
+}

@@ -1,0 +1,19 @@
+h1 {
+
+    font-size: 30px;
+    text-shadow: 0.1em 0.1em 0.2em blue;
+
+}
+
+body {
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: papayawhip;
+
+}
+
+button {
+
+    border-radius: 5px;
+    
+}
